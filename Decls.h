@@ -16,5 +16,4 @@ bool inCheck(Board, const Color);
 bool movesCanEscapeCheck(Board, Valid, const Vec2, const Color);
 bool inCheckMate(Turn *, const Color);
 
-
 #endif /* end of include guard: DECLS_H */
